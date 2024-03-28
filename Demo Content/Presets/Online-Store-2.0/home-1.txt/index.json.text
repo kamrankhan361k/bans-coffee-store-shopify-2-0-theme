@@ -1,0 +1,616 @@
+{
+  "sections": {
+    "16272984271dd9cdb1": {
+      "type": "hero_fullwidth_slider",
+      "blocks": {
+        "16272984271dd9cdb1-0": {
+          "type": "slide",
+          "settings": {
+            "slider_img": "shopify:\/\/shop_images\/s1_b754d127-860e-445b-9895-a11dcd5c7a4e.jpg",
+            "slider_sm_img": "shopify:\/\/shop_images\/rr.png",
+            "slider_caption_title_1": "The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. given an opportunity to sample.",
+            "slider_caption_title_2": "A SPECIAL <br> MORNING MOMENT",
+            "slider_caption_btn": "shop now",
+            "slider_caption_btn_link": "",
+            "row_reverse": false,
+            "justify_content": "start",
+            "content_align": "left",
+            "caption_title1_color": "#000000",
+            "Subtitle_font": "work_sans_n4",
+            "caption_title2_color": "#000000",
+            "main_title_font": "work_sans_n7",
+            "slide_caption_btn_bg_color": "#000000",
+            "slide_caption_btn_color": "#ffffff",
+            "slide_caption_btn_border_color": "#000000",
+            "slide_caption_btn_hover_color": "#000000",
+            "lg_col": "5",
+            "lg_offset": "0",
+            "md_col": "5",
+            "md_offset": "0",
+            "content_lg_col": "6",
+            "content_lg_offset": "1",
+            "content_md_col": "7",
+            "content_md_offset": "0"
+          }
+        },
+        "16272984271dd9cdb1-1": {
+          "type": "slide",
+          "settings": {
+            "slider_img": "shopify:\/\/shop_images\/s2.jpg",
+            "slider_sm_img": "shopify:\/\/shop_images\/rr.png",
+            "slider_caption_title_1": "The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. given an opportunity to sample.",
+            "slider_caption_title_2": "A ROSTED <br> COFFEE  FOR YOU",
+            "slider_caption_btn": "shop now",
+            "slider_caption_btn_link": "",
+            "row_reverse": false,
+            "justify_content": "start",
+            "content_align": "left",
+            "caption_title1_color": "#000000",
+            "Subtitle_font": "work_sans_n4",
+            "caption_title2_color": "#000000",
+            "main_title_font": "work_sans_n7",
+            "slide_caption_btn_bg_color": "#000000",
+            "slide_caption_btn_color": "#ffffff",
+            "slide_caption_btn_border_color": "#000000",
+            "slide_caption_btn_hover_color": "#000000",
+            "lg_col": "5",
+            "lg_offset": "0",
+            "md_col": "5",
+            "md_offset": "0",
+            "content_lg_col": "6",
+            "content_lg_offset": "1",
+            "content_md_col": "7",
+            "content_md_offset": "0"
+          }
+        }
+      },
+      "block_order": [
+        "16272984271dd9cdb1-0",
+        "16272984271dd9cdb1-1"
+      ],
+      "settings": {
+        "slider_autoplay_enable": false,
+        "slider_content_type": "without_image",
+        "loop_true": true,
+        "pagination_true": false,
+        "slider_paginate_color": "#999999",
+        "slider_active_paginate_color": "#333333",
+        "navigation_true": true,
+        "navigation_style2": true,
+        "navigation_bg_color": "#ffffff",
+        "navigation_color": "#999999",
+        "navigation_hover_bg_color": "#222222",
+        "navigation_hover_color": "#ffffff",
+        "section_snow_effect": false,
+        "slider_overlay_color": "#ffffff",
+        "slider_overlay_opacity": 0
+      }
+    },
+    "1641533760d48098c3": {
+      "type": "featured_category_area",
+      "blocks": {
+        "16415337608acf37bf-0": {
+          "type": "category-banner",
+          "settings": {
+            "banner_img": "shopify:\/\/shop_images\/h2-custom-icon-5.png",
+            "banner_title": "TYPES OF COFFEE",
+            "banner_desc": "This is the standard in coffee. It is the most common and most popular style.",
+            "url1": "shopify:\/\/collections\/all"
+          }
+        },
+        "16415337608acf37bf-1": {
+          "type": "category-banner",
+          "settings": {
+            "banner_img": "shopify:\/\/shop_images\/h2-custom-icon-6.png",
+            "banner_title": "BEAN VARIETIES",
+            "banner_desc": "The experimental design included a randomized complete block.",
+            "url1": "shopify:\/\/collections\/all"
+          }
+        },
+        "16415337608acf37bf-2": {
+          "type": "category-banner",
+          "settings": {
+            "banner_img": "shopify:\/\/shop_images\/h2-custom-icon-7.png",
+            "banner_title": "COFFEE & PASTRY",
+            "banner_desc": "This is the standard in coffee. It is the most common and most popular style.",
+            "url1": "shopify:\/\/collections\/all"
+          }
+        },
+        "16415337608acf37bf-3": {
+          "type": "category-banner",
+          "settings": {
+            "banner_img": "shopify:\/\/shop_images\/h2-custom-icon-8.png",
+            "banner_title": "COFFEE TO GO",
+            "banner_desc": "Experimental design included a randomized complete block design with three.",
+            "url1": "shopify:\/\/collections\/all"
+          }
+        },
+        "34b53de3-6bef-4db7-ba2a-e3106df4d8ee": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 100,
+            "section_padding_bottom": 0,
+            "section_padding_top_md": 80,
+            "section_padding_bottom_md": 0,
+            "section_padding_top_xs": 60,
+            "section_padding_bottom_xs": 0
+          }
+        }
+      },
+      "block_order": [
+        "16415337608acf37bf-0",
+        "16415337608acf37bf-1",
+        "16415337608acf37bf-2",
+        "16415337608acf37bf-3",
+        "34b53de3-6bef-4db7-ba2a-e3106df4d8ee"
+      ],
+      "settings": {
+        "container_width": "fluid",
+        "section_title_enable": true,
+        "section_title": "OUR DELICIOUS OFFER",
+        "section_title_size": "title--large",
+        "section_title_paragraph": "I am hoping to see you at the Savor Seattle show in November!  If you want to <br> visit my booth, please click here for the address.",
+        "text_align": "center",
+        "autoplay_true": false,
+        "slide_items_show": 4,
+        "items_more_than_1200": 4,
+        "items_more_than_992": 3,
+        "items_more_than_768": 2,
+        "items_more_than_480": 1,
+        "items_more_than_320": 1
+      }
+    },
+    "1641753083a41340bf": {
+      "type": "about-section",
+      "blocks": {
+        "85e66b58-c440-4449-8344-48da8307a2f3": {
+          "type": "section_background",
+          "settings": {
+            "section_bg_image": "shopify:\/\/shop_images\/h1-bacground-ismg-1.jpg",
+            "section_bg_color": "#ffffff"
+          }
+        },
+        "0e0da2d4-1c9d-4500-959f-4d4e633a2511": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 100,
+            "section_padding_bottom": 100,
+            "section_padding_top_md": 80,
+            "section_padding_bottom_md": 80,
+            "section_padding_top_xs": 60,
+            "section_padding_bottom_xs": 60
+          }
+        }
+      },
+      "block_order": [
+        "85e66b58-c440-4449-8344-48da8307a2f3",
+        "0e0da2d4-1c9d-4500-959f-4d4e633a2511"
+      ],
+      "settings": {
+        "section_enable": true,
+        "container_width": "container",
+        "section_title_enable": false,
+        "section_title": "Basic minimalism",
+        "section_subtitle": "BANS STORE - SIMPLY AND BASIC",
+        "about_img": "shopify:\/\/shop_images\/about-img-2-1_efd25995-c506-468b-b43e-968868da4456.png",
+        "img_lg_col": "6",
+        "img_md_col": "12",
+        "main__title": "Arabica & Robusta <br> New Exclusive Coffee",
+        "about_description": "Maecenas dapibus mattis eros, at fermentum sapien malesuada sit amet. Quisque in sollicitudin eros. Aliquam eget sapien sed orci accumsan interdum at ac m lorem ut ante pulvinar finibus non non metusi.",
+        "dwn_text": "Download price",
+        "cal_text": "3-068-387-01-39",
+        "abt_btn_1_text": "Read More",
+        "abt_btn_1_btn_link": "",
+        "abt_btn_2_text": "Shop Now",
+        "abt_btn_2_btn_link": "",
+        "content_xl_col": "6",
+        "content_offset_xl_col": "0",
+        "content_lg_col": "6",
+        "content_md_col": "12"
+      }
+    },
+    "164200963342ded20d": {
+      "type": "coffee-menu-section",
+      "blocks": {
+        "0c456fb9-dadd-4eb8-b9a3-2ab8900f6ce6": {
+          "type": "single_coffee_menu",
+          "settings": {
+            "custom_collection_img": "shopify:\/\/shop_images\/menu-2-1.png",
+            "coffee_title": "Americano Coffee",
+            "coffee_price": "$25"
+          }
+        },
+        "218f535b-9852-4c5f-bb09-2ce18412c72d": {
+          "type": "single_coffee_menu",
+          "settings": {
+            "custom_collection_img": "shopify:\/\/shop_images\/menu-2-2.png",
+            "coffee_title": "Japan's Coffee Greed",
+            "coffee_price": "$12"
+          }
+        },
+        "10f88489-142f-4f75-9a31-36841de1db5c": {
+          "type": "single_coffee_menu",
+          "settings": {
+            "custom_collection_img": "shopify:\/\/shop_images\/menu-2-4.png",
+            "coffee_title": "Virgin Coffee greed",
+            "coffee_price": "$22"
+          }
+        },
+        "5ef09061-d666-4bd6-8c5e-45eab1ee2863": {
+          "type": "single_coffee_menu",
+          "settings": {
+            "custom_collection_img": "shopify:\/\/shop_images\/menu-2-3.png",
+            "coffee_title": "Brazilan Rosted Coffee",
+            "coffee_price": "$35"
+          }
+        },
+        "e68879ac-ce65-4859-a261-bad7414440fb": {
+          "type": "single_coffee_menu",
+          "settings": {
+            "custom_collection_img": "shopify:\/\/shop_images\/menu-2-6.png",
+            "coffee_title": "Italian Roosted Coffee",
+            "coffee_price": "$25"
+          }
+        },
+        "eeae04c6-be09-4ffc-8912-8761cb00b79b": {
+          "type": "single_coffee_menu",
+          "settings": {
+            "custom_collection_img": "shopify:\/\/shop_images\/menu-2-5.png",
+            "coffee_title": "Best Latte Macchiato",
+            "coffee_price": "$25"
+          }
+        },
+        "4b87a753-34ca-4774-ace8-3890114c9ebc": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 0,
+            "section_padding_bottom": 100,
+            "section_padding_top_md": 0,
+            "section_padding_bottom_md": 80,
+            "section_padding_top_xs": 0,
+            "section_padding_bottom_xs": 60
+          }
+        }
+      },
+      "block_order": [
+        "0c456fb9-dadd-4eb8-b9a3-2ab8900f6ce6",
+        "218f535b-9852-4c5f-bb09-2ce18412c72d",
+        "10f88489-142f-4f75-9a31-36841de1db5c",
+        "5ef09061-d666-4bd6-8c5e-45eab1ee2863",
+        "e68879ac-ce65-4859-a261-bad7414440fb",
+        "eeae04c6-be09-4ffc-8912-8761cb00b79b",
+        "4b87a753-34ca-4774-ace8-3890114c9ebc"
+      ],
+      "settings": {
+        "section_enable": true,
+        "container_width": "container",
+        "section_title_enable": true,
+        "section_title": "Bans Popular Menu",
+        "section_subtitle": "We Produce Blends of the Most Aromatic Coffee eattle show in November! <br> If you want to visit my booth, please check here",
+        "text_align": "center"
+      }
+    },
+    "1642012533daa2ebe6": {
+      "type": "testmonial_section_2",
+      "blocks": {
+        "1642012533859442d9-1": {
+          "type": "single_testmonial",
+          "settings": {
+            "testmonial_thumb": "shopify:\/\/shop_images\/our-team-5.jpg",
+            "testmonial_description": "Very good quality of food and service. Vast menu with child friendly items as well as local seafood and even entrees for those who dont like seafood. Great place! Thanks. We absolutely love everything there!",
+            "testmonial_name": "De Willamson",
+            "testmonial_designation": "\/ Founder & co",
+            "testmonial_quotation": "shopify:\/\/shop_images\/t-quote.png"
+          }
+        },
+        "1642012533859442d9-0": {
+          "type": "single_testmonial",
+          "settings": {
+            "testmonial_thumb": "shopify:\/\/shop_images\/our-team-3.jpg",
+            "testmonial_description": "Very good quality of food and service. Vast menu with child friendly items as well as local seafood and even entrees for those who dont like seafood. Great place! Thanks. We absolutely love everything there!",
+            "testmonial_name": "Helen Bailey",
+            "testmonial_designation": "\/ Founder & CO",
+            "testmonial_quotation": "shopify:\/\/shop_images\/t-quote.png"
+          }
+        },
+        "1642012533859442d9-4": {
+          "type": "section_background",
+          "settings": {
+            "section_bg_image": "shopify:\/\/shop_images\/h1-bacground-ismg-1.jpg",
+            "section_bg_color": "#f5f5f5"
+          }
+        }
+      },
+      "block_order": [
+        "1642012533859442d9-1",
+        "1642012533859442d9-0",
+        "1642012533859442d9-4"
+      ],
+      "settings": {
+        "section_enable": true,
+        "section_title_enable": false,
+        "section_title": "Section Title",
+        "test_thumbnail_enable": true,
+        "quotation_enable": true,
+        "autoplay_true": false,
+        "slider_arrow_enable": true,
+        "slider_navigation_color": "#e7e7e7",
+        "slide_items_show": 1,
+        "items_more_than_1200": 1,
+        "items_more_than_992": 1,
+        "items_more_than_768": 1,
+        "items_more_than_480": 1,
+        "items_more_than_320": 1
+      }
+    },
+    "1642156208554e2402": {
+      "type": "banner_masorny_style",
+      "blocks": {
+        "164215620871e75ebf-0": {
+          "type": "banner_type",
+          "settings": {
+            "banner_img": "shopify:\/\/shop_images\/port-1-img-7.jpg",
+            "banner_title": "Baked Beans",
+            "current_price": "$35",
+            "old_price": "$45",
+            "banner_url": "shopify:\/\/collections\/all",
+            "lg_col": "6",
+            "lg_offset": "0",
+            "md_col": "6",
+            "md_offset": "0",
+            "banner_content_color": "#ffffff",
+            "banner_old_price_color": "#ffffff"
+          }
+        },
+        "164215620871e75ebf-1": {
+          "type": "banner_type",
+          "settings": {
+            "banner_img": "shopify:\/\/shop_images\/port-1-img-2.jpg",
+            "banner_title": "Coffee Drips",
+            "current_price": "$45",
+            "old_price": "$50",
+            "banner_url": "",
+            "lg_col": "6",
+            "lg_offset": "0",
+            "md_col": "6",
+            "md_offset": "0",
+            "banner_content_color": "#ffffff",
+            "banner_old_price_color": "#ffffff"
+          }
+        },
+        "164215620871e75ebf-2": {
+          "type": "banner_type",
+          "settings": {
+            "banner_img": "shopify:\/\/shop_images\/port-1-img-3.jpg",
+            "banner_title": "Best Aromas",
+            "current_price": "$75",
+            "old_price": "$90",
+            "banner_url": "",
+            "lg_col": "6",
+            "lg_offset": "0",
+            "md_col": "6",
+            "md_offset": "0",
+            "banner_content_color": "#ffffff",
+            "banner_old_price_color": "#ffffff"
+          }
+        },
+        "a94da988-cf93-4987-a89a-f35ed056d08d": {
+          "type": "banner_type",
+          "settings": {
+            "banner_img": "shopify:\/\/shop_images\/port-1-img-1.jpg",
+            "banner_title": "Big Mugs",
+            "current_price": "$10",
+            "old_price": "$14",
+            "banner_url": "",
+            "lg_col": "6",
+            "lg_offset": "0",
+            "md_col": "6",
+            "md_offset": "0",
+            "banner_content_color": "#ffffff",
+            "banner_old_price_color": "#ffffff"
+          }
+        },
+        "d4352cdc-7cea-46d1-94fc-cf23d24c1307": {
+          "type": "section_margin",
+          "settings": {
+            "section_margin_top": 0,
+            "section_margin_bottom": 0,
+            "section_margin_top_md": 0,
+            "section_margin_bottom_md": 0,
+            "section_margin_top_xs": 0,
+            "section_margin_bottom_xs": 0
+          }
+        }
+      },
+      "block_order": [
+        "164215620871e75ebf-0",
+        "164215620871e75ebf-1",
+        "164215620871e75ebf-2",
+        "a94da988-cf93-4987-a89a-f35ed056d08d",
+        "d4352cdc-7cea-46d1-94fc-cf23d24c1307"
+      ],
+      "settings": {
+        "section_title_enable": true,
+        "section_title": "Best Selling Coffee",
+        "section_title_desc": "We Produce Blends of the Most Aromatic Coffee eattle show in November! <br>\nIf you want to visit my booth, please check here",
+        "collection_trend_name": "",
+        "collection_trend_count": "",
+        "collection_banner_subtitle": "",
+        "banner_collection_btn": false,
+        "banner_btn_text": "Online store",
+        "banner_btn_link": ""
+      }
+    },
+    "1642615156e70521a4": {
+      "type": "product_with_banner",
+      "settings": {
+        "container_width": "container",
+        "section_title_enable": false,
+        "section_title": "Section Title",
+        "section_title_paragraph": "Section Title Description",
+        "text_align": "center",
+        "product_banner_Post": "right",
+        "banner_enable": true,
+        "banner_img": "shopify:\/\/shop_images\/Untitled-1.jpg",
+        "banner_url": "",
+        "product_cat_handle_id": "new",
+        "product_limit_handle": 6,
+        "product_column": "4",
+        "product_desktop_col": "6",
+        "product_column_md": "6",
+        "product_column_xs": "6"
+      }
+    },
+    "16277124795155b475": {
+      "type": "instagram_gallery",
+      "blocks": {
+        "16277124795155b475-0": {
+          "type": "single_gallery_item",
+          "settings": {
+            "inst_gallery_item": "shopify:\/\/shop_images\/port-1-img-1.jpg",
+            "inst_gallery_item_link": ""
+          }
+        },
+        "16277124795155b475-1": {
+          "type": "single_gallery_item",
+          "settings": {
+            "inst_gallery_item": "shopify:\/\/shop_images\/port-1-img-7.jpg",
+            "inst_gallery_item_link": ""
+          }
+        },
+        "16277124795155b475-2": {
+          "type": "single_gallery_item",
+          "settings": {
+            "inst_gallery_item": "shopify:\/\/shop_images\/port-1-img-2_2bb99dc9-e251-43d4-ba12-e83a87fac678.jpg",
+            "inst_gallery_item_link": ""
+          }
+        },
+        "16277124795155b475-3": {
+          "type": "single_gallery_item",
+          "settings": {
+            "inst_gallery_item": "shopify:\/\/shop_images\/port-1-img-3.jpg",
+            "inst_gallery_item_link": ""
+          }
+        },
+        "16277124795155b475-4": {
+          "type": "single_gallery_item",
+          "settings": {
+            "inst_gallery_item": "shopify:\/\/shop_images\/port-1-img-7.jpg",
+            "inst_gallery_item_link": ""
+          }
+        },
+        "230456e7-6d18-489b-adde-4654126847c9": {
+          "type": "section_margin",
+          "settings": {
+            "section_margin_top": 80,
+            "section_margin_bottom": 65,
+            "section_margin_top_md": 60,
+            "section_margin_bottom_md": 55,
+            "section_margin_top_xs": 55,
+            "section_margin_bottom_xs": 50
+          }
+        }
+      },
+      "block_order": [
+        "16277124795155b475-0",
+        "16277124795155b475-1",
+        "16277124795155b475-2",
+        "16277124795155b475-3",
+        "16277124795155b475-4",
+        "230456e7-6d18-489b-adde-4654126847c9"
+      ],
+      "settings": {
+        "instagram_feed": true,
+        "container_width": "container",
+        "layout_mode": "slider",
+        "instafeed_type": "style1",
+        "section_title_enable": true,
+        "section_title": "@bans_shop",
+        "section_title_link": "",
+        "section_subtitle": "Follow us on instagram",
+        "content_align": "right",
+        "item_Column": "5",
+        "item_md_Column": "4",
+        "item_sm_Column": "3",
+        "item_xs_Column": "2",
+        "autoplay_true": false,
+        "slide_item_show": 4,
+        "tablet_slide_item_show": 2,
+        "large_mobile_item_show": 2,
+        "small_mobile_item_show": 1,
+        "small_xs_mobile_item_show": 1
+      }
+    },
+    "1642157984f2bebbb0": {
+      "type": "latest-blog",
+      "disabled": true,
+      "blocks": {
+        "ac316936-a8ff-4051-ba76-c6ce2075428f": {
+          "type": "section_background",
+          "settings": {
+            "section_bg_image": "shopify:\/\/shop_images\/h1-bacground-ismg-1.jpg",
+            "section_bg_color": "#ffffff"
+          }
+        },
+        "81b11816-9f13-4d36-960f-565160f5b202": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 100,
+            "section_padding_bottom": 100,
+            "section_padding_top_md": 80,
+            "section_padding_bottom_md": 80,
+            "section_padding_top_xs": 60,
+            "section_padding_bottom_xs": 60
+          }
+        }
+      },
+      "block_order": [
+        "ac316936-a8ff-4051-ba76-c6ce2075428f",
+        "81b11816-9f13-4d36-960f-565160f5b202"
+      ],
+      "settings": {
+        "container_width": "fluid",
+        "latest_blog_style": "b_style_3",
+        "section_title_enable": true,
+        "section_title": "OUR NEWS & ARTICLES",
+        "section_description": "Our news and articles of the Most Aromatic Coffee eattle show in November <br>\nIf you want to visit my booth, please check here",
+        "section_btn_text": "View All",
+        "text_align": "center",
+        "section_btn_link": "",
+        "blog_handle": "news",
+        "blog_limit_handle": 3,
+        "post_thumbnail_enable": true,
+        "post_author_enable": true,
+        "post_publish_time_enable": true,
+        "post_comment_enbale": false,
+        "post_title_enable": true,
+        "post_content_enbale": true,
+        "post_content_len": 20,
+        "post_readmore_btn_enbale": true,
+        "read_more_button": "Read More",
+        "author_title": "By :",
+        "blog_tags_enable": true,
+        "autoplay_true": false,
+        "navigation_enable": true,
+        "arrow_nav_icon_color": "#e7e7e7",
+        "slide_items_show": 3,
+        "items_more_than_1200": 2,
+        "items_more_than_992": 2,
+        "items_more_than_768": 1,
+        "items_more_than_480": 1,
+        "items_more_than_320": 1
+      }
+    }
+  },
+  "order": [
+    "16272984271dd9cdb1",
+    "1641533760d48098c3",
+    "1641753083a41340bf",
+    "164200963342ded20d",
+    "1642012533daa2ebe6",
+    "1642156208554e2402",
+    "1642615156e70521a4",
+    "16277124795155b475",
+    "1642157984f2bebbb0"
+  ]
+}

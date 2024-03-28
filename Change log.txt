@@ -1,0 +1,31 @@
+Date: 26-Mar-2023
+Version: 1.0.4
+===================
+Added: New Blog Grid Style.
+Improved: Product page functionality.
+Improved: Mini cart functionality.
+
+Date: 04-Feb-2023
+Version: 1.0.3
+===================
+Added: New product Section
+Improved: Mobile header design
+Improved: Responsive design
+
+Date: 05-Nov-2022
+Version: 1.0.2
+===================
+- Customizer has been Update.
+- Predictive search has been Added.
+-  Minor CSS Issue Fixed.
+-  Minor Responsive CSS Issue Fixed.
+-  Added new sections.
+-  Updated page.
+
+
+
+
+
+
+
+
